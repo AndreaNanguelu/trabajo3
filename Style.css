@@ -1,0 +1,13 @@
+body{
+    background-image: url("../img/1.png")
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 10;
+	overflow: hidden;
+	background-color: #91C4D2;
+}
+footer{
+    text-align: right;
+}
